@@ -73,7 +73,7 @@ p {
     font-size: 48px;
   }
 }
-@media (min-width: 750px) and (max-width: 900px) {
+@media (min-width: 750px) and (max-width: 899px) {
   img {
     width: 260px;
     height: 260px;
@@ -88,7 +88,7 @@ p {
     font-size: 42px;
   }
 }
-@media (min-width: 600px) and (max-width: 750px) {
+@media (min-width: 600px) and (max-width: 749px) {
   img {
     width: 200px;
     height: 200px;
@@ -103,7 +103,7 @@ p {
     font-size: 32px;
   }
 }
-@media (min-width: 420px) and (max-width: 600px) {
+@media (min-width: 420px) and (max-width: 599px) {
   img {
     width: 165px;
     height: 165px;
@@ -188,7 +188,7 @@ p {
     font-size: 18px;
   }
 }
-@media (min-width: 100px) and (max-width: 150px) {
+@media (min-width: 100px) and (max-width: 149px) {
   .box1 {
     height: 50%;
     width: 100%;
@@ -228,7 +228,7 @@ p {
     font-size: 1px;
   }
   p {
-    font-size: 8px;
+    font-size: 9px;
   }
   h1 {
     font-size: 15px;

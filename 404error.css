@@ -53,14 +53,14 @@ h1 {
   text-align: center;
   display: block;
   font-weight: bold;
-  font-size: 54px;
+  font-size: 55px;
 }
 p {
   text-align: center;
   display: block;
   font-size: 38px;
 }
-@media (min-width: 900px) and (max-width: 1120px) {
+@media screen and (min-width: 900px) and (max-width: 1120px) {
   img {
     width: 310px;
     height: 310px;
@@ -76,7 +76,7 @@ p {
     font-size: 48px;
   }
 }
-@media (min-width: 750px) and (max-width: 899px) {
+@media screen and (min-width: 750px) and (max-width: 899px) {
   img {
     width: 260px;
     height: 260px;

@@ -1,5 +1,4 @@
 * {
-  
   font-family: monospace;
 }
 body {
@@ -20,7 +19,7 @@ body {
   display: flex;
   flex-wrap: wrap;
 }
-.left {
+.box1 {
   /* border:2px solid black; */
   width: 40%;
   display: flex;
@@ -33,7 +32,7 @@ img {
   height: 60vh;
   width: 33vw;
 }
-.right {
+.box2 {
   /* border:2px solid red; */
   width: 60%;
   justify-content: center;
@@ -121,11 +120,11 @@ p {
 }
 
 @media (min-width: 300px) and (max-width: 420px) {
-  .left {
+  .box1 {
     height: 50%;
     width: 100%;
   }
-  .right {
+  .box2 {
     height: 50%;
     width: 100%;
   }
@@ -144,11 +143,11 @@ p {
   }
 }
 @media (min-width: 200px) and (max-width: 300px) {
-  .left {
+  .box1 {
     height: 50%;
     width: 100%;
   }
-  .right {
+  .box2 {
     height: 50%;
     width: 100%;
   }
@@ -167,11 +166,11 @@ p {
   }
 }
 @media (min-width: 150px) and (max-width: 200px) {
-  .left {
+  .box1 {
     height: 50%;
     width: 100%;
   }
-  .right {
+  .box2 {
     height: 50%;
     width: 100%;
   }
@@ -190,11 +189,11 @@ p {
   }
 }
 @media (min-width: 100px) and (max-width: 150px) {
-  .left {
+  .box1 {
     height: 50%;
     width: 100%;
   }
-  .right {
+  .box2 {
     height: 50%;
     width: 100%;
   }
@@ -213,11 +212,11 @@ p {
   }
 }
 @media (min-width: 50px) and (max-width: 99px) {
-  .left {
+  .box1 {
     height: 50%;
     width: 100%;
   }
-  .right {
+  .box2 {
     height: 50%;
     width: 100%;
   }

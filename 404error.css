@@ -46,6 +46,9 @@ button {
   color: white;
   padding: 20px;
 }
+button:hover{
+  cursor:pointer;}
+
 h1 {
   text-align: center;
   display: block;

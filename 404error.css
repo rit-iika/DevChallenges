@@ -91,7 +91,7 @@ p {
     font-size: 42px;
   }
 }
-@media (min-width: 600px) and (max-width: 749px) {
+@media screen and (min-width: 600px) and (max-width: 749px) {
   img {
     width: 200px;
     height: 200px;
@@ -106,7 +106,7 @@ p {
     font-size: 32px;
   }
 }
-@media (min-width: 420px) and (max-width: 599px) {
+@media screen and (min-width: 420px) and (max-width: 599px) {
   img {
     width: 165px;
     height: 165px;
@@ -122,7 +122,7 @@ p {
   }
 }
 
-@media (min-width: 300px) and (max-width: 420px) {
+@media screen and (min-width: 300px) and (max-width: 420px) {
   .box1 {
     height: 50%;
     width: 100%;
@@ -145,7 +145,7 @@ p {
     font-size: 30px;
   }
 }
-@media (min-width: 200px) and (max-width: 300px) {
+@media screen and (min-width: 200px) and (max-width: 300px) {
   .box1 {
     height: 50%;
     width: 100%;
@@ -168,7 +168,7 @@ p {
     font-size: 25px;
   }
 }
-@media (min-width: 150px) and (max-width: 200px) {
+@media screen and (min-width: 150px) and (max-width: 200px) {
   .box1 {
     height: 50%;
     width: 100%;
@@ -191,7 +191,7 @@ p {
     font-size: 18px;
   }
 }
-@media (min-width: 100px) and (max-width: 149px) {
+@media screen and (min-width: 100px) and (max-width: 149px) {
   .box1 {
     height: 50%;
     width: 100%;
@@ -214,7 +214,7 @@ p {
     font-size: 15px;
   }
 }
-@media (min-width: 50px) and (max-width: 99px) {
+@media screen and (min-width: 50px) and (max-width: 99px) {
   .box1 {
     height: 50%;
     width: 100%;
@@ -229,6 +229,7 @@ p {
   }
   button {
     font-size: 1px;
+
   }
   p {
     font-size: 9px;
